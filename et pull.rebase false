@@ -1,0 +1,54 @@
+[33mcommit be1e186dccf35bf16be501e1d91de680952b4a6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Anas-Abuhamed <anasabuhamed07@gmail.com>
+Date:   Sat Jan 31 17:21:48 2026 +0200
+
+    G:
+
+[33mcommit 99e31833074568e2e803bffe3d852d43eab66f27[m
+Merge: 92f2de9 8eb892e
+Author: Anas-Abuhamed <anasabuhamed07@gmail.com>
+Date:   Sat Jan 31 17:11:50 2026 +0200
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 92f2de99f514ed66154b9e3f9185c2d078f0e7ab[m
+Author: Anas-Abuhamed <anasabuhamed07@gmail.com>
+Date:   Sat Jan 31 17:07:54 2026 +0200
+
+    E:
+
+[33mcommit 8eb892e508bc5b2f71d69c71443fc140cc5cc5a4[m
+Author: Anas-Abuhamed <anasabuhamed07@gmail.com>
+Date:   Sat Jan 31 16:53:04 2026 +0200
+
+    D:
+
+[33mcommit ea48f096ac21839da7811bc8d76cde15c528434b[m
+Author: Anas-Abuhamed <anasabuhamed07@gmail.com>
+Date:   Sat Jan 31 14:54:35 2026 +0200
+
+    C: add quotes
+
+[33mcommit 0412926d4fe0ff065ef3e33bc3164b1c7dae9755[m
+Author: Anas-Abuhamed <anasabuhamed07@gmail.com>
+Date:   Sat Jan 31 14:53:29 2026 +0200
+
+    C: add quotes
+
+[33mcommit f2b4cccc4da8429bc50552ae093357ffa15792f4[m
+Author: Anas-Abuhamed <anasabuhamed07@gmail.com>
+Date:   Sat Jan 31 14:46:20 2026 +0200
+
+    C: add qoutes
+
+[33mcommit c813daef830da103192c528d33f1ea0628e476e0[m
+Author: Anas-Abuhamed <anasabuhamed07@gmail.com>
+Date:   Sat Jan 31 14:24:52 2026 +0200
+
+    B: add titles
+
+[33mcommit 020d81b69fc983f4577a0f03bbec7efc123b1466[m
+Author: Anas-Abuhamed <anasabuhamed07@gmail.com>
+Date:   Sat Jan 31 13:37:46 2026 +0200
+
+    A: add contents.md
